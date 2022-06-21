@@ -9,6 +9,7 @@ This site includes a Home page with photo, small bio, video, and contact links, 
 HOW TO RUN:
 
 . Clone the repository into your local environment and open the index.html file.
+
 . Follow the direct link at the bottom.
 
 ROADMAP FOR FUTURE IMPROVEMENTS:
